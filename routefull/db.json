@@ -1,0 +1,66 @@
+{ "products":[
+    {
+       "id":1 ,
+        "name" : "Shirt",
+        "image" :"https://img.tatacliq.com/images/i7/437Wx649H/MP000000009795992_437Wx649H_202106141849381.jpeg",
+        "Price" : 80,
+        "category" : "Men"
+     },
+      {
+       "id": 2,
+        "name" : "Half-Sleeve",
+        "image" :"https://flyingcdn-942385.b-cdn.net/wp-content/uploads/2021/03/Mens-Summer-Fashion-Pinterest-min.jpg",
+        "Price" : 35,
+        "category" : "Men"
+     },
+      {
+       "id": 3,
+        "name" : "shirts",
+        "image" :"https://canary.contestimg.wish.com/api/webimage/5eaecf910c6652e4004069e4-large.jpg?cache_buster=19c6379c386064aae3510688337a503c",
+        "Price" : 60,
+        "category" : "Men"
+     },
+      {
+       "id": 4,
+        "name" : "shirts",
+        "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQmk4S26O8cMlXotlI5pOscOpXx9oZ49E3Q&usqp=CAU",
+        "Price" : 45,
+        "category" : "Men"
+     },
+      {
+       "id":5 ,
+        "name" : "t-shirts",
+        "image" :"https://www.apetogentleman.com/wp-content/uploads/2019/06/best-mens-tshirts.jpg",
+        "Price" : 10,
+        "category" : "Men"
+     },
+      {
+       "id": 6,
+        "name" : "t-shirts",
+        "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpODnJoxMZ57xGXKEJ1qUW7eYLHypIoavJqA&usqp=CAU",
+        "Price" : 80,
+        "category" : "Mens"
+     },
+      {
+       "id": 7,
+        "name" : "Gowns",
+        "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUrVQ2yPKBajoLmsXBZwziDkiybxEbgFArdQ&usqp=CAU",
+        "Price" : 100,
+        "category" : "Women"
+     },
+
+      {
+       "id":8 ,
+        "name" : "Gowns",
+        "image" :"https://assets.ajio.com/medias/sys_master/root/20210404/728e/606be822aeb269a9e36f4a6e/-473Wx593H-461671366-red-MODEL.jpg",
+        "Price" : 90,
+        "category" : "Women"
+     },
+      {
+       "id":9 ,
+        "name" : "Shoes",
+        "image" :"https://assets.reebok.com/images/w_600,f_auto,q_auto/6462f22340504e3193b3ab1e0114ab3a_9366/ZigWild_Trail_6_Men's_Shoes_Black_FX1433_01_standard.jpg",
+        "Price" : 10,
+        "category" : "Men-Shoes"
+     }
+]}
